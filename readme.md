@@ -1,7 +1,7 @@
-# ThreeJS car test.
+# ThreeJS animated 3D car
 
-A car with moving wheels and washers, so I could test ThreeJS library functions.
-Originally made as an exercise for course I took.
+A (hilariously) simple 3D car with moving wheels and washers, made to test ThreeJS library functions.
+Originally made as an exercise for a course I took.
 
 Screenshot:
 ![Screenshot](./screenshot.png "Screenshot")
